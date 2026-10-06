@@ -30,5 +30,3 @@ Many "AI analytics" setups hand raw data straight to an LLM. That produces confi
 **Design spec.** Not yet built or deployed.
 
 *Designed by me; drafted with Claude/ChatGPT.*
-# powerful-impact-boom
-AI Marketing Intelligence System
